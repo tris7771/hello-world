@@ -1,2 +1,5 @@
 # hello-world
-trying out github
+
+Hi There!
+
+  Just started using github for our next projects. Hoping it would be awesome! ;-)
